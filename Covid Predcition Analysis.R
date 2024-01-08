@@ -1,11 +1,5 @@
 ---
 title: "CS 422"
-output: 
-  html_notebook:
-    toc: yes
-    toc_float: yes
-author: Vijay K. Gurbani, Ph.D., 
-        Illinois Institute of Technology
 ---
 
 <!-- More information in R Markdown can be found at:
